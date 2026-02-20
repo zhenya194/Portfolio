@@ -1,3 +1,24 @@
-h1, h2, p {
+body {
+    background-color: rgb(82, 43, 119);
+}
+
+h1, h2, h3, p {
     text-align: center;
+}
+a {
+    color: rgb(180, 114, 15);
+}
+
+h1 {
+    font-size: 55px;
+}
+h2 {
+    font-size: 50px;
+}
+h3 {
+    font-size: 40px;
+}
+
+#des {
+    font-size: 25px;
 }
