@@ -18,6 +18,9 @@ h2 {
 h3 {
     font-size: 40px;
 }
+img {
+    border-radius: 15px;
+}
 
 #des {
     font-size: 25px;
